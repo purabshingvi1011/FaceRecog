@@ -31,7 +31,6 @@ This project implements a face recognition system using the **Eigenfaces algorit
 1. Clone this repository:
    ```bash
    git clone https://github.com/purabshingvi1011/FaceRecog.git
-   cd face-recognition-eigenfaces
 
 2. Imstall dependencies
    pip install opencv-python numpy matplotlib
