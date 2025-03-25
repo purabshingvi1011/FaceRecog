@@ -30,7 +30,7 @@ This project implements a face recognition system using the **Eigenfaces algorit
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/face-recognition-eigenfaces.git
+   git clone https://github.com/purabshingvi1011/FaceRecog.git
    cd face-recognition-eigenfaces
 
 2. Imstall dependencies
