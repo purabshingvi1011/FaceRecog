@@ -26,11 +26,6 @@ This project implements a face recognition system using the **Eigenfaces algorit
 - **NumPy**
 - **Matplotlib** (for visualizations)
 
-## 📂 Project Structure
-
-Face_Recog/ │ ├── dataset/ # Folder containing face image datasets ├── Face_Recog.ipynb # Main Jupyter Notebook for training and testing ├── utils/ # Utility functions (e.g., preprocessing, PCA) └── README.md # Project documentation
-
-
 ## 🧪 How to Run
 
 1. Clone this repository:
